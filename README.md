@@ -12,24 +12,19 @@ Primeiro projeto desenvolvido em Java durante os estudos na FIAP.
 
 src/main/java/br/com/fiap/produtos
 
+**model**
+- Categoria.java
+- Produto.java
 
+**repository**
+- CategoriaCollectionRepository.java
+- ProdutoCollectionRepository.java
 
-
-├── model
-│   ├── Categoria.java
-│   └── Produto.java
-│
-├── repository
-│   ├── CategoriaCollectionRepository.java
-│   └── ProdutoCollectionRepository.java
-│
-└── view
-    ├── Main.java
-    ├── Opcao.java
-    ├── OpcaoView.java
-    └── ProdutoView.java
-
-
+**view**
+- Main.java
+- Opcao.java
+- OpcaoView.java
+- ProdutoView.java
 
 ## Objetivo
 
